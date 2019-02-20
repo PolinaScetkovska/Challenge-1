@@ -1,0 +1,44 @@
+
+body{
+	font-family: 'Orbitron', sans-serif;
+    background-image: url(https://wi-images.condecdn.net/image/B1NZW376pxM/crop/1620/f/space_11.jpg);
+ 
+	color: #FFFFFF;
+    text-align: center;
+    margin-top: 160px;
+}
+
+
+
+.content{
+   text-align: left;
+    background:	black;
+    max-width: 800px;
+    margin: auto;
+    padding: 30px 50px;
+    overflow: hidden;
+}
+
+.status{
+    font-size: 15px;
+    text-align: center;
+    background: #12b8d0;
+    padding: 30px 40px;
+    margin-bottom: 20px;
+   
+}
+
+.parametrs{
+    background: #001e7a;
+    width: 45%;
+    float: right;
+    padding: 50px 40px;
+    
+}
+
+.time{
+    background: #001e7a;
+    float: left;
+    
+     padding: 50px 60px;
+}
